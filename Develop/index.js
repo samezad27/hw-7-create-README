@@ -32,9 +32,21 @@ const questions = [
     },
     // 2:10 video time on the hw demo
     {
-        type: "input",
+        type: "list",
         message: "What kind of license is your project?",
-        name: "license"
+        name: "license",
+        choices: [
+            {
+                name: "MIT",
+                short: "MIT",
+                value: "[![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)"
+            },
+            {
+                name: "Apache",
+                short: "Apache",
+                value: "[![License](https://img.shields.io/badge/license-Apache-green)](https://opensource.org/licenses/Apache-2.0)"
+            }
+        ]
     },
     {
         type: "input",
