@@ -1,6 +1,6 @@
 # 09 Node.js Challenge: Professional README Generator
 
-Link: https://drive.google.com/file/d/1cLJC5C5V9ESWNH5XCiawm99x2XPJOggT/view
+Link to video: https://drive.google.com/file/d/1cLJC5C5V9ESWNH5XCiawm99x2XPJOggT/view
 
 
 ## Your Task
