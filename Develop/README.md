@@ -1,9 +1,9 @@
-# SAM
+# GENERATE A README
 
-[![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-Apache-green)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
-SAM
+geneartes a readme
 
 ## Table of Contents
 [Description](#description)
@@ -14,22 +14,22 @@ SAM
 [Questions](#questions)
 
 
-### Installation
-SAM
+## Installation
+NPM
 
-### Usage
-
-
-
-
-### Contributing
+## Usage
+quick and easy readme
 
 
-### Tests
 
+## Contributing
+everything
 
-### Questions
-https://github.com/
+## Tests
+all at once
 
+## Questions
+https://github.com/samezad27
 
+samezad27@gmail.com
 
